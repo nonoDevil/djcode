@@ -2,7 +2,7 @@
 from django.conf.urls import *
 from mysite.views import hello
 from mysite.views import my_homepage_view
-from mysite.views import  current_datetime
+from mysite.views import current_datetime
 # Uncomment the next two lines to enable the admin:
 # from django.contrib import admin
 # admin.autodiscover()
